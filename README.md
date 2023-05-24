@@ -14,7 +14,7 @@ Hyper-tuning and validation of the results received from the machine learning mo
 To develop a graphical user interface tool.
 
 
-## Methodology1-c3699e3d-a3aa-4c77-a403-0e3a01ac4b76.png)
+## Methodology
 
 Generate a dataset using reputed journal paper’s pseudo-static conditioned analyses of overburden slope stability.
 Refinement and cross validation of the dataset.
