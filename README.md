@@ -1,4 +1,4 @@
-# Artificial Intelligence based Tool for the Stability Assessment of Overburden Dump Slope 
+# Slope Stability Analysis of Overburden Dump Slope using ML/DL 
 
 ## Problem Statement
 Existing softwares to analyse slope stability are expensive with very high computation cost and high computation time.
